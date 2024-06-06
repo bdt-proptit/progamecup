@@ -22,9 +22,16 @@ Team hoạt động theo mô hình Scrum, sử dụng Linear để quản lý c�
 
 Mỗi tuần, team sẽ ngồi lại để review công việc đã làm, cùng nhau giải quyết vấn đề và đề xuất giải pháp cho tuần tiếp theo. Sau đó sẽ có buổi demo cho mentor để nhận phản hồi và hướng dẫn.
 
-### Gitflow
+### Version Control Strategy
 
-Team hoạt động theo Trunk Based Development, sử dụng Gitflow để quản lý code. Mỗi thành viên sẽ tạo branch từ `develop` để làm việc, sau khi hoàn thành sẽ tạo Pull Request để review code. Sau khi được review, sẽ merge vào `develop`.
+
+Team hoạt động theo Gitflow để quản lý code. Mỗi thành viên sẽ tạo branch từ `develop` để làm việc, các branch đặt theo format `feature/ten-chuc-nang`, sau khi hoàn thành sẽ tạo Pull Request để review code và merge vào develop
+- Các nhánh chính:
+  - `master`: Chứa code ổn định, đã qua kiểm tra và test kỹ lưỡng
+  - `develop`: Chứa code mới nhất, đã qua review và test
+  - `feature/`: Các nhánh chứa code đang phát triển, short-live, sau khi hoàn thành sẽ merge vào `develop`. 
+
+![alt text](image.png)
 
 Sau mỗi tuần, team sẽ merge `develop` vào `master` để release phiên bản mới.
 
