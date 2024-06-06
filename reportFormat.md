@@ -13,6 +13,23 @@
 - [Thành viên 4]
 - [Mentor]
 
+
+
+### Mô hình làm việc
+
+Team hoạt động theo mô hình Scrum, sử dụng Linear để quản lý công việc. Các công việc được keep track đầy đủ trên Linear.
+- Link linear: ...
+
+Mỗi tuần, team sẽ ngồi lại để review công việc đã làm, cùng nhau giải quyết vấn đề và đề xuất giải pháp cho tuần tiếp theo. Sau đó sẽ có buổi demo cho mentor để nhận phản hồi và hướng dẫn.
+
+### Gitflow
+
+Team hoạt động theo Trunk Based Development, sử dụng Gitflow để quản lý code. Mỗi thành viên sẽ tạo branch từ `develop` để làm việc, sau khi hoàn thành sẽ tạo Pull Request để review code. Sau khi được review, sẽ merge vào `develop`.
+
+Sau mỗi tuần, team sẽ merge `develop` vào `master` để release phiên bản mới.
+
+
+
 ## 2. Giới Thiệu Dự Án
 
 **Mô tả:** [Dự án game làm cái gì]
@@ -24,12 +41,40 @@
 - [Chức năng 3]
 - [Chức năng 4]
 
-## 4. Công Nghệ Sử Dụng
+## 4. Công nghệ
 
+### 4.1. Công Nghệ Sử Dụng
 - [Công nghệ 1]
 - [Công nghệ 2]
 - [Công nghệ 3]
 - [Công nghệ 4]
+
+### 4.2 Cấu trúc dự án
+
+```
+- assets 
+  - images
+  - sounds
+- core
+  - common
+  - config
+  - view
+  - model
+  - controller
+- desktop
+- ios
+...
+```
+
+Diễn giải:
+- **assets:** Chứa các tài nguyên như hình ảnh, âm thanh
+- **core:** Chứa các class chính của game như model, view, controller
+- **desktop, ios, android:** Chứa các class để chạy trên các nền tảng khác nhau"
+- ...
+
+
+
+
 
 ## 5. Ảnh và Video Demo
 
@@ -38,6 +83,11 @@
 
 **Video Demo:**
 [Video Link](#)
+
+
+
+
+
 
 ## 6. Các Vấn Đề Gặp Phải
 
