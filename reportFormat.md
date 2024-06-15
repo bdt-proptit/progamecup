@@ -56,6 +56,12 @@ Sau mỗi tuần, team sẽ merge `develop` vào `master` để release phiên b
 - [Công nghệ 3]
 - [Công nghệ 4]
 
+VD:
+- Java 8
+- LibGDX https://libgdx.com/
+- Gradle
+- ...
+
 ### 4.2 Cấu trúc dự án
 
 ```
