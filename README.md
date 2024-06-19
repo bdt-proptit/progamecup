@@ -9,7 +9,7 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 ## Project Name: S2B Plant Simulator
 
-**Project Link:** [GitHub](#)
+**Project Link:** [[GitHub](#)](https://github.com/TrDucChinh/PGJ_S2B_Plant_Simulator)
 
 **Members and Mentor:**
 - Nguyễn Nam Hải
@@ -19,7 +19,7 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 ## Project Name: Obsidian Chronicles
 
-**Project Link:** [GitHub](#)
+**Project Link:** [[GitHub](#)](https://github.com/long20102004/ProGameJam-Obsidian_Chronicles)
 
 **Members and Mentor:**
 - Lê Trí Tâm
@@ -30,7 +30,7 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 ## Project Name: Stickman Teleport
 
-**Project Link:** [GitHub](#)
+**Project Link:** [[GitHub](#)](https://github.com/blueT52Hz/JavaCore-BTCK)
 
 **Members and Mentor:**
 - Hoàng Mạnh Dũng
@@ -40,7 +40,7 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 ## Project Name: Crate Mage
 
-**Project Link:** [GitHub](#)
+**Project Link:** [[GitHub](#)](https://github.com/littlepsyduck/PROJECT-CrateMage)
 
 **Members and Mentor:**
 - Nguyễn Đăng Minh
@@ -50,7 +50,7 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 ## Project Name: Endless Wave
 
-**Project Link:** [GitHub](#)
+**Project Link:** [[GitHub](#)](https://github.com/Yamaaaaaaaa/BTCK_PGC-Endless_Way)
 
 **Members and Mentor:**
 - Triệu Ngọc Tâm
@@ -60,7 +60,7 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 ## Project Name: Good Impression
 
-**Project Link:** [GitHub](#)
+**Project Link:** [[GitHub](#)](https://github.com/Hecker-Chuoi/BTCK2)
 
 **Members and Mentor:**
 - Vũ Đình Thiết
@@ -70,7 +70,7 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 ## Project Name: Mob Inc
 
-**Project Link:** [GitHub](#)
+**Project Link:** [[GitHub](#)](https://github.com/NgNhatThanh/ProGamejam_BTCK)
 
 **Members and Mentor:**
 - Nguyễn Quốc Hưng 
@@ -80,7 +80,7 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 ## Project Name: Adventure Tale
 
-**Project Link:** [GitHub](#)
+**Project Link:** [[GitHub](#)](https://github.com/NguyenBui256/PGJ-Adventure-Tale)
 
 **Members and Mentor:**
 - Nguyễn Quốc Hưng 
