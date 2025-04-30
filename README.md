@@ -1,3 +1,5 @@
+![ProGameJam 2025](background-1.jpg)
+
 # ProGameCup
 
 ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member in ProPTIT, we will have a competition to test our knowledge and skills. This competition is a good chance for us to improve our coding skills and learn from each other.
