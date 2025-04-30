@@ -4,86 +4,90 @@ ProGameCup is a competition hosted by ProPTIT. After OOP Course for club member 
 
 # Event Information
 
+There are 8 teams working in 6 weeks to complete the project, including 7 teams of game project and 1 team of Mobile application.
 
-# 2024 - D22
+# 2025 - D23
 
-## Project Name: S2B Plant Simulator
+## Project Name: Age Of War
 
-**Project Link:** [[GitHub](#)](https://github.com/TrDucChinh/PGJ_S2B_Plant_Simulator)
+**Project Link:** [[GitHub](#)](https://github.com/danhhoa20005/ProGameJam-AgeOfWar)
 
-**Members and Mentor:**
-- Nguyễn Nam Hải
-- Trần Đức Chính
-- Mộc Thu Huyền
-- Lê Đình Hiệp
-
-## Project Name: Obsidian Chronicles
-
-**Project Link:** [[GitHub](#)](https://github.com/long20102004/ProGameJam-Obsidian_Chronicles)
-
-**Members and Mentor:**
-- Lê Trí Tâm
-- Trần Tiểu Long
-- Hoàng Hải Long
-- Lê Tuấn Ngọc
-- Bùi Quang Đạt
-
-## Project Name: Stickman Teleport
-
-**Project Link:** [[GitHub](#)](https://github.com/blueT52Hz/JavaCore-BTCK)
-
-**Members and Mentor:**
-- Hoàng Mạnh Dũng
-- Bùi Thái Sỹ
-- Vũ Mạnh Hùng
-- Nguyễn Hoa Thanh Tùng
-
-## Project Name: Crate Mage
-
-**Project Link:** [[GitHub](#)](https://github.com/littlepsyduck/PROJECT-CrateMage)
-
-**Members and Mentor:**
-- Nguyễn Đăng Minh
-- Nguyễn Bá Việt Hoàng
-- Hoàng Trung Hiếu
-- Đặng Huyền Trang
-
-## Project Name: Endless Wave
-
-**Project Link:** [[GitHub](#)](https://github.com/Yamaaaaaaaa/BTCK_PGC-Endless_Way)
-
-**Members and Mentor:**
-- Triệu Ngọc Tâm
-- Phan Thanh Tân
-- Phan Văn Duy
-- Trần Xuân Sơn
-
-## Project Name: Good Impression
-
-**Project Link:** [[GitHub](#)](https://github.com/Hecker-Chuoi/BTCK2)
-
-**Members and Mentor:**
-- Vũ Đình Thiết
-- Phan Thị Hồng Thắm
-- Nguyễn Hữu Tiến
+**Members and Mentors:**
 - Phạm Quang Minh
+- Nguyễn Hữu Tiến
+- Trần Hải Long        
+- Nguyễn Tuấn An        
+- Nguyễn Danh Hòa
+
+## Project Name: Rustica Days
+
+**Project Link:** [[GitHub](#)](https://github.com/DarkJyn/Rustica-Days)
+
+**Members and Mentors:**
+- Nguyễn Hoa Thanh Tùng
+- Đỗ Lý Minh Anh
+- Đỗ Vũ Hải Đăng	
+- Trần Lê Nam Khánh
+- Phạm Mai Linh
+  
+## Project Name: Typing Chef
+
+**Project Link:** [[GitHub](#)](https://github.com/HieuGM/TypingChef)
+
+**Members and Mentors:**
+- Đặng Huyền Trang
+- Lê Đình Hiệp
+- Giáp Minh Hiếu        
+- Phạm Mạnh Dũng        
+- Trần Ngọc Ánh
+
+## Project Name: Chest Former
+
+**Project Link:** [[GitHub](#)](https://github.com/lucnguyen1375/Chest-Former)
+
+**Members and Mentors:**
+- Bùi Thế Vĩnh Nguyên
+- Đoàn Thảo Vân
+- Nguyễn Văn Minh Lực	
+- Đỗ Đức Tuấn Anh	
+- Văn Thị Mai Linh
+
+## Project Name: VISAS: Return of the soul
+
+**Project Link:** [[GitHub](#)](https://github.com/Sagitoaz/ProPixelGameJam)
+
+**Members and Mentors:**
+- Phan Thanh Tân
+- Nguyễn Nhật Thành
+- Nguyễn Thành Trung	
+- Lê Đình Chuyên	
+- Nguyễn Mạnh Dũng
 
 ## Project Name: Mob Inc
 
-**Project Link:** [[GitHub](#)](https://github.com/NgNhatThanh/ProGamejam_BTCK)
+**Project Link:** [[GitHub](#)](https://github.com/longtrandev2/RPG-Game)
 
-**Members and Mentor:**
-- Nguyễn Quốc Hưng 
-- Nguyễn Nhật Thành
-- Đoàn Thảo Vân
-- Lê Hương Giang
+**Members and Mentors:**
+- Trần Xuân Sơn
+- Trần Đức Chính
+- Phan An Phúc	
+- Trần Khắc Long
+- Nguyễn Hoàng Biên
 
-## Project Name: Adventure Tale
+## Project Name: Cultivator’s Dread
 
-**Project Link:** [[GitHub](#)](https://github.com/NguyenBui256/PGJ-Adventure-Tale)
+**Project Link:** [[GitHub](#)](https://github.com/NgNhatThanh/ProGamejam_BTC)
 
-**Members and Mentor:**
-- Nguyễn Quốc Hưng 
-- Đỗ Lý Minh Anh
+**Member and Mentors:**
+- Phan Thanh Tân
 - Bùi Thế Vĩnh Nguyên
-- Nguyễn Thị Như Quỳnh
+- Nguyễn Trọng Toàn
+
+## Project Name: ProReadApp
+
+**Project Link:** [[GitHub](#)](https://github.com/HandQ2212/ProReadApp)
+
+**Member and Mentors:**
+- Trần Đức Chính
+- Đặng Huyền Trang
+- Nguyễn Nam Hải
